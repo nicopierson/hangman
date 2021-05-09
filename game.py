@@ -25,7 +25,7 @@ class Game:
             else:
                 print(f"Letter \"{guess.letter}\" is NOT in the mystery word...")
                 self.guessed.append(user_input)
-            self.chances -= 1
+                self.chances -= 1
         print(self.print_status())
 
     def check_status(self):
