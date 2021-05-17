@@ -1,5 +1,6 @@
 # Hangman Game Test
 * command-line  hangman game in python
+* simple implementation of hangman using OOP
 
 ## run
 ```python
